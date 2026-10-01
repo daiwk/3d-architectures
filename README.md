@@ -33,10 +33,12 @@
   <tr>
     <td><img src="./assets/巴黎圣母院.webp" width="100%"></td>
     <td><img src="./assets/圣瓦西里大教堂.webp" width="100%"></td>
+    <td><img src="./assets/莫高窟.webp" width="100%"></td>
   </tr>
   <tr>
     <td align="center">巴黎圣母院</td>
     <td align="center">圣瓦西里大教堂</td>
+    <td align="center">莫高窟</td>
   </tr>
 </table>
 
@@ -308,7 +310,7 @@
 先用极简白模完成整座建筑，再分别将诞生立面和受难立面作为独立子项目细化。任何无法从资料中确定的施工部分必须标注，而不是自动补全。
 ```
 
-## 敦煌莫高窟
+## 莫高窟
 
 ```
 项目：敦煌莫高窟 Mogao Caves 外部景观。
