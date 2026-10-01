@@ -8,18 +8,22 @@
 
 # demo
 
-![古罗马斗兽场](./assets/斗兽场.gif)
-
 <table>
   <tr>
-    <td><img src="./assets/巴黎圣母院.gif" width="100%"></td>
     <td><img src="./assets/泰姬陵.gif" width="100%"></td>
     <td><img src="./assets/罗马斗兽场.gif" width="100%"></td>
+    <td><img src="./assets/吴哥窟.gif" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">巴黎圣母院</td>
     <td align="center">泰姬陵</td>
     <td align="center">罗马斗兽场</td>
+    <td align="center">吴哥窟</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/太和殿.gif" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">太和殿</td>
   </tr>
 </table>
 
