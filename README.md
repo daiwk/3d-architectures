@@ -22,10 +22,18 @@
   <tr>
     <td><img src="./assets/太和殿.webp" width="100%"></td>
     <td><img src="./assets/圣家堂.webp" width="100%"></td>
+    <td><img src="./assets/悉尼歌剧院.webp" width="100%"></td>
   </tr>
   <tr>
     <td align="center">太和殿</td>
     <td align="center">圣家堂</td>
+    <td align="center">悉尼歌剧院</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/巴黎圣母院.webp" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">巴黎圣母院</td>
   </tr>
 </table>
 
