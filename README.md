@@ -8,7 +8,8 @@
 
 # demo
 
-![古罗马斗兽场](./assets/斗兽场.mp4)
+![古罗马斗兽场](./assets/斗兽场.gif)
+
 
 # prompts
 
