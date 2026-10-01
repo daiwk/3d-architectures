@@ -2,11 +2,12 @@
 
 # 使用方式
 
-1. 去[https://www.blender.org/download/](https://www.blender.org/download/)下载blender并安装
+1. 去[https://www.blender.org/download/](https://www.blender.org/download/)里下载blender并安装
 2. 把主prompt和任务prompt拼在一起，丢给AI，当然，如果在同一个对话里，可以不用重复输入主prompt
-3. 最后会生成一坨文件，找到xxx.blend文件，直接用blender打开它，就可以看效果了 
+3. 最后会生成一坨文件，找到xxx.blend文件，直接用blender打开它，就可以看效果了
+4. 如果不在blender里用，要去Unity之类的地方用，可以直接拿对应的glb文件(当然，也可以自己在blender里改.blend，再导出)
 
-# demo
+# 一些demo
 
 <table>
   <tr>
