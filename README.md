@@ -6,6 +6,10 @@
 2. 把主prompt和任务prompt拼在一起，丢给AI，当然，如果在同一个对话里，可以不用重复输入主prompt
 3. 最后会生成一坨文件，找到xxx.blend文件，直接用blender打开它，就可以看效果了 
 
+# demo
+
+![古罗马斗兽场](./assets/斗兽场.mp4)
+
 # prompts
 
 ## 主prompt
